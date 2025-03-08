@@ -1,0 +1,27 @@
+
+*{
+    margin: 0px;
+}
+.heading{
+    background-color: brown;
+    height: 50px;
+    text-align: center;
+    color: aqua;
+    padding-top: 20px;
+}
+.left{
+    float: inline-start;
+    background-color: blue;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    padding-top: 100px;
+}
+.right{
+    background-color: aquamarine;
+    float: inline-end;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    padding-top: 100px;
+}
